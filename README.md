@@ -11,10 +11,20 @@
 <table>
   <tr>
     <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a hr="https://github.com/LUSCA999">
         <sub>
-          <b>Nome do participante</b>
+          <b>Lucas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a hr="https://github.com/KarinaG1t">
+        <sub>
+          <b>Karina</b>
         </sub>
       </a>
     </td>
