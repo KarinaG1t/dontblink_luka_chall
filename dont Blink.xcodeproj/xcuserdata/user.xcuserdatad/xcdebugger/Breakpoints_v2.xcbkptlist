@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2D02673-FD0D-49C1-9FBD-67522157F444"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7782A044-890F-48D4-9039-A9E14B154DDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppTurmaA/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 489dff60c738f310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.movieTitle.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 8019805cb6105704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.movieTitle.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 9401f63dc1399a15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.movieTitle.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 96ae76d8757b661f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.movieTitle.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 1446d5fc0313d205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AppTurmaA.DetailViewController"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "7782A044-890F-48D4-9039-A9E14B154DDC - 1d54ec3f85a5fc02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTurmaA.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AppTurmaA.DetailViewController&gt;"
+                  moduleName = "AppTurmaA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Downloads/AppTurmaA-main/AppTurmaA/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
