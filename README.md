@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center">
-      <a hr="https://github.com/LUSCA999">
+      <a href="https://github.com/LUSCA999">
         <sub>
           <b>Lucas</b>
         </sub>
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center">
-      <a hr="https://github.com/KarinaG1t">
+      <a href="https://github.com/KarinaG1t">
         <sub>
           <b>Karina</b>
         </sub>
